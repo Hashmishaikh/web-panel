@@ -1,0 +1,30 @@
+.load{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tasks{
+    margin-left: 20px;
+}
+.local{
+    display: flex;
+    justify-content: center;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.inp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 5px;
+}
+.label{
+    font-weight: 400px;
+    border-bottom: 1px grey;
+}

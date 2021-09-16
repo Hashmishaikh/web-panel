@@ -1,0 +1,30 @@
+.top{
+    width: 100%;
+    height: 50px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    background-color: rgba(216, 212, 212, 0.993);
+}
+.topLeft{
+    display: flex;
+    margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.topCenter{
+    margin-left: 90px;
+}
+.topList{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+

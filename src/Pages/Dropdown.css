@@ -1,0 +1,10 @@
+.bord{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

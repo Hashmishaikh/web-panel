@@ -1,0 +1,30 @@
+
+
+.usertop{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.changepass {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .buttons{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      margin-left: 40px;
+      margin-top: 30%;
+
+  }
+
+  .logout{
+      margin-left: 30px;
+      width: 150px;
+  }
