@@ -1,4 +1,3 @@
-import { any } from 'async';
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import './Tasks.css';
@@ -59,7 +58,7 @@ const Tasks = () => {
             </button>
 
 
-            <div className="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div className="modal fade container" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div className="modal-dialog" role="document">
                     <div className="modal-content">
                         <div className="modal-header">

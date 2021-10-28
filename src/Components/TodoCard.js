@@ -6,7 +6,7 @@ const TodoCard = (props) => {
     const {id,title,completed } = todo;
     return (
         <>
-        <div className="api">
+        <div className="api container">
             <h6 className="apicenter">{id}</h6>
             <h6 className="apicenter">{title} </h6>
             <h6 className="apicenter letter">{` ${completed}`}</h6>
